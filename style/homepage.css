@@ -10,7 +10,7 @@ a{
 .header{
     height:100vh;
     width:100vw;
-    background-image: url("../Images/header_photo.jpg");
+    background-image: url("../images/header_photo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
